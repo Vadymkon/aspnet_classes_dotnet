@@ -1,0 +1,6 @@
+C:\knu\spz\6\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\knu\spz\6\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\knu\spz\6\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\knu\spz\6\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\knu\spz\6\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\knu\spz\6\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
